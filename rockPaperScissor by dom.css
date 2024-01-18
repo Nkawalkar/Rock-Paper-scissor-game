@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Arial';
+    font-weight: bold;
+    
+}
+.tools{
+    border-radius: 100%;
+    padding: 20px 20px;
+    border-color: antiquewhite;
+    background-color: black;
+    
+}
+.reset-socre-button, .auto-play-button{
+    background-color: aliceblue;
+    border: none;
+    font-size: 15px;
+    padding: 8px 15px;
+    cursor: pointer;
+}
+.js-auto-play-button{
+    margin-top: 10px;
+}
